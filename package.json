@@ -1,0 +1,26 @@
+{
+  "name": "whitebot",
+  "version": "1.0.0",
+  "description": "Bot na twojego discorda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Błąd: nie określono testu\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Javer01 (WhiteDEV)",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yamesiak/WhiteDCBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yamesiak/WhiteDCBot/issues"
+  },
+  "homepage": "https://github.com/Yamesiak/WhiteDCBot#readme"
+}
